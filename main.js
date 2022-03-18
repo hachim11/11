@@ -61,7 +61,7 @@ btnP.addEventListener("click", () => {
 		memb.classList.remove("active");
 		disImg.style.boxShadow = "0 0 30px black";
 		note.classList.add("active");
-		disImg.style.backgroundImage = "url('./27.jpg')";
+		disImg.style.backgroundImage = "url('27.jpg')";
 
 		if (inputP.value === "day") {
 			disImg.style.backgroundImage = "url('./friends.jpg')";
