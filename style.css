@@ -293,7 +293,7 @@ body {
 	grid-template-rows: 15% 85%;
 	justify-items: center;
 	align-items: center;
-	background-image: url(./logo.png);
+	background-image: url(logo.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
