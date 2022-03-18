@@ -64,39 +64,39 @@ btnP.addEventListener("click", () => {
 		disImg.style.backgroundImage = "url('27.jpg')";
 
 		if (inputP.value === "day") {
-			disImg.style.backgroundImage = "url('./friends.jpg')";
+			disImg.style.backgroundImage = "url('friends.jpg')";
 			note.innerHTML = "chkon sawrna had tswira ?";
 		}
 		if (inputP.value === "jouad") {
-			disImg.style.backgroundImage = "url('./jawad.jpg')";
+			disImg.style.backgroundImage = "url('jawad.jpg')";
 			note.innerHTML = "a7san djo f 3alam ";
 		}
 		if (inputP.value === "rabie") {
-			disImg.style.backgroundImage = "url('./rabi3.jpg')";
+			disImg.style.backgroundImage = "url('rabi3.jpg')";
 			note.innerHTML = "Hello My teacher";
 		}
 		if (inputP.value === "nilo") {
-			disImg.style.backgroundImage = "url('./nilo.jpg')";
+			disImg.style.backgroundImage = "url('nilo.jpg')";
 			note.innerHTML = "My little Sister";
 		}
 		if (inputP.value === "simo") {
-			disImg.style.backgroundImage = "url('./simo.jpg')";
+			disImg.style.backgroundImage = "url('simo.jpg')";
 			note.innerHTML = "labas labas awald KHALTI";
 		}
 		if (inputP.value === "7km") {
-			disImg.style.backgroundImage = "url('./7km.jpg')";
+			disImg.style.backgroundImage = "url('7km.jpg')";
 			note.innerHTML = "ba9a 4ir 7 KM";
 		}
 		if (inputP.value === "dahiya") {
-			disImg.style.backgroundImage = "url('./fdqh.jpg')";
+			disImg.style.backgroundImage = "url('fdqh.jpg')";
 			note.innerHTML = "simo ma3andich chi tswira dyalak";
 		}
 		if (inputP.value === "za3im") {
-			disImg.style.backgroundImage = "url('./za3im.jpg')";
+			disImg.style.backgroundImage = "url('za3im.jpg')";
 			note.innerHTML = "tbarkLAH 3la za3im";
 		}
 		if (inputP.value === "grand") {
-			disImg.style.backgroundImage = "url('./grand.jpg')";
+			disImg.style.backgroundImage = "url('grand.jpg')";
 			note.innerHTML = "hadchi bomstak hhh";
 		}
 	}
