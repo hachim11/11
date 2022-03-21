@@ -89,7 +89,7 @@ btnP.addEventListener("click", () => {
 		}
 		if (inputP.value === "dahiya") {
 			disImg.style.backgroundImage = "url('fdqh.jpg')";
-			note.innerHTML = "simo ma3andich chi tswira dyalak";
+			note.innerHTML = "wach wach";
 		}
 		if (inputP.value === "za3im") {
 			disImg.style.backgroundImage = "url('za3im.jpg')";
