@@ -67,7 +67,7 @@ btnP.addEventListener("click", () => {
 			disImg.style.backgroundImage = "url('friends.jpg')";
 			note.innerHTML = "chkon sawrna had tswira ?";
 		}
-		if (inputP.value === "jouad") {
+		if (inputP.value === "jo") {
 			disImg.style.backgroundImage = "url('jawad.jpg')";
 			note.innerHTML = "a7san djo f 3alam ";
 		}
