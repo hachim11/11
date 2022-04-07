@@ -100,7 +100,7 @@ btnP.addEventListener("click", () => {
 			note.innerHTML = "hadchi bomstak hhh";
 		}
                 if (inputP.value === "ismail") {
-			disImg.style.backgroundImage = "url('grand.jpg')";
+			disImg.style.backgroundImage = "url('ismail.jpg')";
 			note.innerHTML = "kijak hadchi aba ismail";
 		}
 	}
