@@ -82,6 +82,9 @@ btnP.addEventListener("click", () => {
 		if (inputP.value === "simo") {
 			disImg.style.backgroundImage = "url('simo.jpg')";
 			note.innerHTML = "labas labas awald KHALTI";
+                     disImg.addEventListener("dblclick" ,()=>{
+                    disImg.style.backgroundImage = "url('nilo.jpg')";
+})
 		}
 		if (inputP.value === "7km") {
 			disImg.style.backgroundImage = "url('7km.jpg')";
