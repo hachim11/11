@@ -83,7 +83,8 @@ btnP.addEventListener("click", () => {
 			disImg.style.backgroundImage = "url('simo.jpg')";
 			note.innerHTML = "labas labas awald KHALTI";
                      disImg.addEventListener("dblclick" ,()=>{
-                    disImg.style.backgroundImage = "url('nilo.jpg')";
+                    disImg.style.backgroundImage = "url('T401650906033874.png')";
+                    note.innerHTML="compte 3 hada";
 })
 		}
 		if (inputP.value === "7km") {
